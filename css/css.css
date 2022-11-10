@@ -1,0 +1,620 @@
+
+    .fotos2 {
+        display: none;
+    }
+
+    .scroll_cont {
+        display: none;
+    }
+    .hello {
+        display: none;
+    }
+    
+    .project- {
+        display: none;
+    }
+    
+    .projec_img {
+        display: none;
+    }
+    
+    .section- {
+        display: none;
+    }
+    
+    .logo{
+        width: 9rem;
+    } 
+    
+    .buscador {
+        display: none;
+    }
+    
+    .menu {
+        display: none;
+    }
+    
+    header{
+        display: flex;
+        flex-direction: row;
+        justify-content: space-between;
+        align-items: center;
+        margin-top: 3rem;
+        padding: 0rem 1.5rem;
+    }
+    
+    .container_hello {
+        display: flex;
+        flex-direction: row;
+        justify-content: flex-start;
+        align-items: center;
+        margin-top: 5rem;
+        padding: 0rem 1.5rem;
+    }
+    
+    .hello {
+        margin: 0rem 1rem;
+        font-size: 2.4rem;
+        font-weight: 500;
+    }
+    
+    .container_perfil {
+        display: flex;
+        flex-direction: column;
+        justify-content: space-around;
+        margin-top: 2rem;
+        padding: 0rem 1.5rem;
+    }
+    
+    .nombre {
+        font-weight: 500;
+        font-size: 3.2rem;
+    }
+    
+    .container_perfil p {
+        margin: 1.2rem 0rem;
+        font-size: 1.8rem;
+    }
+    
+    .img_cont {
+        display: flex;
+        flex-direction: column;
+        justify-content: space-around;
+        margin-top: 4rem;
+        padding: 0rem 1.5rem; 
+    }
+
+    .userpic {
+        width: 28.8rem;
+        margin-top: 4rem;
+    }
+    
+    .userpic2 {
+        display: none;
+    }
+    
+    .iconos {
+        display: flex;
+        flex-direction: row;
+        justify-content: space-around; 
+        align-items: center;  
+    
+        margin-top: 5.5rem;
+    }
+    
+    .vector {
+        width: 2rem;
+        height: 2rem; 
+    }
+    
+    .b_img {
+        width: 3.8rem;
+        height: 3.8rem;
+    }
+    
+    .twit {
+        width: 2rem; 
+    }
+    
+    .learn {
+        font-size: 3.2rem;
+        font-weight: 400;
+        margin-top: 16rem;
+    }
+    
+    .video {
+        width: 28.8rem;
+        margin-top: 7rem;
+    }
+    
+    .video2 {
+        display: none;
+    }
+    
+    .what {
+        font-size: 4rem;
+        font-weight: 500;
+        margin-top: 14rem;
+        margin-bottom: 5rem;
+        align-self: center;
+    }
+    .cuadros_web {
+        display: flex;
+        flex-direction: column;
+        justify-content: space-around;
+        padding: 0rem 2rem; 
+        background-color: #333333;
+    
+        margin-bottom: 4rem;
+    }
+    
+    .design_ux {
+        font-size: 4.6rem;
+        font-weight: 400;
+        color: #FFFFFF;
+        margin-top: 6.75rem;
+    }
+    
+    .ui p {
+        font-size: 1.8rem;
+        font-weight: 400;
+        color: #FFFFFF;
+        margin-top: 3rem;
+    }
+    
+    .read {
+        display: flex;
+        flex-direction: row;
+        justify-content: flex-start; 
+        align-items: center;
+        margin-top: 7rem;
+        margin-bottom: 7rem;
+    }
+    
+    .read a {
+        text-decoration: none;
+        color: #FFFFFF;
+        font-size: 1.8rem;
+        font-weight: 600;
+    }
+    
+    .read img {
+        width: 4.1rem;
+        margin-left: 2rem;
+    }
+    
+    .web {
+        display: flex;
+        flex-direction: column;
+        justify-content: space-around;
+        padding: 0rem 2rem; 
+        background-color: #D6D6D6;
+    
+        margin-bottom: 4rem;
+    }
+    
+    .design_web {
+        font-size: 4rem;
+        font-weight: 400;
+        color: #333333;
+        margin-top: 6.75rem;
+    }
+    
+    .web p {
+        font-size: 1.8rem;
+        font-weight: 400;
+        color: #333333;
+        margin-top: 3rem;
+    }
+    
+    .more {
+        display: flex;
+        flex-direction: row;
+        justify-content: flex-start; 
+        align-items: center;
+        margin-top: 7rem;
+        margin-bottom: 7rem;
+    }
+    
+    .more a {
+        text-decoration: none;
+        color: #333333;
+        font-size: 1.8rem;
+        font-weight: 600;
+    }
+    
+    .more img {
+        width: 4.1rem;
+        margin-left: 2rem;
+    }
+    
+    .circulos {
+        display: flex;
+        flex-direction: row;
+        justify-content: center;
+        align-items: center;
+        margin-top: 4rem;
+    }
+    
+    .direccion {
+        display: none;
+    }
+    
+    .circulos img {
+        margin: 0rem 1.5rem;
+    }
+    
+    .portafolio {
+        font-size: 4rem;
+        font-weight: 500;
+        color: #333333;
+        align-self: center;
+        margin-top: 14rem;
+    }
+    
+    .opciones {
+        display: flex;
+        flex-direction: column;
+        justify-content: space-around;
+        padding: 0rem 1.5rem;
+        margin-top: 3.5rem; 
+    }
+    
+    .opciones2 {
+        display: none;
+    }
+    
+    .opciones li {
+        list-style: none;
+        font-size: 1.4rem;
+        font-weight: 400;
+        margin: 1.5rem 0rem;
+    }
+    
+    .all {
+        font-size: 1.4rem;
+        font-weight: 600 !important;
+    }
+    
+    .fotos {
+        display: flex;
+        flex-direction: column;
+        justify-content: space-around;
+        align-items: center;
+        padding: 0rem 1.5rem;
+        margin-top: 5.5rem; 
+    }
+    
+    .fotos img {
+        margin-top: 3.5rem;
+        width: 28rem;
+    }
+    
+    .img5 {
+        margin-bottom: 2rem;
+    }
+    
+    .cliente {
+        font-size: 4rem;
+        font-weight: 500;
+        color: #333333;
+        margin-top: 15rem;
+    }
+    
+    .testimonio {
+        display: flex;
+        flex-direction: column;
+        justify-content: space-around; 
+    }
+    
+    .cliente_img {
+        margin-top: 10rem;
+    }
+    
+    .comillas {
+        margin-top: 6rem;
+        margin-bottom: 1rem;
+    }
+    
+    .comillas img{
+        width: 2.625rem;
+    }
+    
+    .comillas2 {
+        position: absolute;
+        right: 0;
+        margin-top: 1rem;
+    }
+    
+    .comillas2 img{
+        width: 2.625rem;
+    }
+    
+    .testimonio p {
+        font-size: 1.8rem;
+        font-weight: 400;
+        color: #333333;
+    }
+
+    .cliente_img {
+        width: 28.8rem;
+    }
+    
+    .cliente_name {
+        font-size: 2.8rem;
+        color: #333333;
+        font-weight: 500;
+        margin-top: 10rem;
+    }
+    
+    .pro {
+        font-size: 2rem;
+        font-weight: 400;
+        margin-top: 2rem;
+    }
+
+    .circulos2 {
+        display: none;
+    }
+    
+    .hello_section {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        background-color: #333333;
+        margin-top: 8rem;
+    }
+    
+    .hello_title {
+        color: #FFFFFF;
+        font-weight: 400;
+        font-size: 3.2rem;
+        margin-top: 8rem;
+    }
+    
+    .hello_title {
+        color: #FFFFFF;
+        font-weight: 400;
+        font-size: 4rem;
+        margin-top: 3rem;
+    }
+    
+    .contact {
+        background-color: #FFFFFF;
+        text-decoration: none;
+        color: #333333;
+        width: 18.5rem;
+        height: 7.3rem;
+        font-size: 2.8rem;
+        font-weight: 400;
+        margin-top: 10rem;
+    
+        display: flex;
+        justify-content: center;
+        align-items: center;
+    }
+    
+    .iconos {
+        display: flex;
+        justify-content: space-around;
+        align-items: center;
+        width: 100%;
+        margin-top: 8rem;
+        margin-bottom: 8rem;
+    }
+    
+    .bas {
+        width: 2.5rem;
+    }
+    
+    .project {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        padding: 0rem 2rem;
+        margin-top: 3rem;
+    }
+    
+    .project h2{
+        font-size: 4rem;
+        font-weight: 400;
+        margin-top: 4rem;
+    }
+    
+    .project span{
+        font-size: 1.8rem;
+        font-weight: 400;
+        margin-top: 1.5rem;
+    }
+    
+    .contenedor {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        padding: 0rem 1.5rem;
+    }
+    
+    .section {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        margin-top: 3rem;
+        background-color: #333333;
+    }
+    
+    .blog{
+        font-size: 4rem;
+        font-weight: 500;
+        margin-top: 12rem;
+        margin-bottom: 3rem;
+    }
+    
+    .section img{
+        align-self: center;
+        width: 100%;
+    }
+    
+    .info {
+        display: flex;
+        justify-content: space-around;
+        align-items: center; 
+        width: 100%;
+        margin-top: 2rem;
+    }
+    
+    .info span {
+        color: #FFFFFF;
+        font-size: 1.4rem;
+        font-weight: 400;
+    }
+    
+    .section h2 {
+        color: #FFFFFF;
+        font-size: 2rem;
+        font-weight: 400;
+        align-self: center;
+        margin-top: 7rem;
+        margin-left: 1.5rem;
+    }
+    
+    .read3 {
+        display: flex;
+        flex-direction: row;
+        justify-content: flex-start; 
+    
+        margin-top: 7rem;
+        margin-right: 10rem;
+        margin-bottom: 2rem;
+    }
+    
+    .read3 a {
+        text-decoration: none;
+        color: #FFFFFF;
+        font-size: 1.8rem;
+        font-weight: 500;
+    }
+    
+    .read3 img {
+        width: 4.1rem;
+        margin-left: 2rem;
+    }
+    
+    .des{
+        font-size: 4rem;
+        font-weight: 500;
+        margin-top: 18rem;
+    }
+    
+    .contenedor p {
+        font-size: 1.8rem;
+        font-weight: 300;
+        margin-top: 4rem;
+    }
+
+    .For {
+        font-size: 4rem;
+        font-weight: 500;
+        margin-top: 15rem;
+    }
+    
+    .options {
+        display: flex;
+        flex-direction: column;
+        justify-content: space-around;
+        width: 100%;
+        margin-top: 4rem;
+    }
+    
+    .options div {
+        margin-top: 2rem;
+    }
+    
+    .options span {
+        font-size: 1.8rem;
+        font-weight: 300;
+    }
+    
+    .formulario {
+        display: flex;
+        flex-direction: column;
+        justify-content: space-around;
+        width: 100%;
+        background-color: #333333;
+        padding: 0rem 1.5rem;
+        margin-top: 5rem;
+    }
+    
+    .formulario input {
+        width: 100%;
+        height: 3rem;
+        background-color: #333333;
+        border: none;
+        outline: none;
+        border-bottom: 0.1rem solid #FFFFFF;
+        color: #FFFFFF;
+        font-size: 1.4rem;
+        margin-top: 6rem;
+    }
+    
+    .pdescription {
+        color: #FFFFFF;
+        font-size: 1.4rem;
+        font-weight: 400;
+        margin-top: 6rem;
+    }
+    
+    .input {
+        margin-top: 0.5rem !important;
+    }
+    
+    ::placeholder {
+        color: #FFFFFF;
+        font-size: 1.4rem;
+        font-weight: 400;
+    }
+    
+    .boton {
+        display: flex;
+        justify-content: flex-end;
+        width: 100%;
+    }
+    
+    .formulario button {
+        font-size: 1.4rem;
+        font-weight: 300;
+        width: 11.6rem;
+        height: 4.9rem;
+        align-self: flex-end;
+        margin-top: 2rem;
+        background-color: #FFFFFF;
+        border: none;
+        margin-bottom: 6rem;
+    }
+
+    .seccion {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    }
+    
+    .iconos2 {
+        display: flex;
+        flex-direction: row;
+        justify-content: space-between; 
+        align-items: center;
+        width: 28rem;  
+    
+        margin-top: 5rem;
+    }
+    
+    .Template {
+        font-size: 1.4rem;
+        font-weight: 400;
+        margin-top: 2rem;
+        align-self: center;
+    }
