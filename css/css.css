@@ -138,7 +138,7 @@
         margin-bottom: 5rem;
         align-self: center;
     }
-    .cuadros_web {
+    .ui {
         display: flex;
         flex-direction: column;
         justify-content: space-around;
